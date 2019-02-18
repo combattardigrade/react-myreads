@@ -20,7 +20,7 @@ class BooksApp extends React.Component {
           books,
           
         }))
-        console.log(this.state)
+        
       })
   }
 
