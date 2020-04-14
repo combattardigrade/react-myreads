@@ -12,6 +12,8 @@ Installs the modules and dependencies required to start the application.
 ## `npm start`
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Requires Nodemon
+  `npm install -g nodemon`
 
 The page will reload if you make edits.<br>
 
